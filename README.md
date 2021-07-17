@@ -47,7 +47,6 @@
 - [ ] https://github.com/Maskhe/javasec
 - [ ] https://github.com/phith0n/JavaThings
 - [ ] https://github.com/anbai-inc/javaweb-sec
-- [ ] https://github.com/momosecurity/rhizobia_J
 - [ ] https://github.com/feihong-cs/Java-Rce-Echo
 - [ ] https://github.com/Y4er/WebLogic-Shiro-shell
 - [ ] https://github.com/feihong-cs/Java-Rce-Echo
@@ -87,8 +86,9 @@
 
 ## 0x05-Java安全编码规范
 
-- [ ] 腾讯集团Java安全编码规范
-- [ ] 奇安信集团具体安全编码规范
+- [ ] 腾讯集团-Java安全编码规范
+- [ ] 奇安信集团-Java安全编码规范
+- [ ] [陌陌集团-Java安全编码规范](https://github.com/momosecurity/rhizobia_J)
 
 ## 0x06-Java代码审计培训
 
