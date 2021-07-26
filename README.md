@@ -2,7 +2,7 @@
 
 本项目是记录自己在Java代码审计过程中遇到的内容，包括Java代码审计技巧以及自己真实审计的案例。一个不会Java代码审计的师傅不是一个好黑客！一个不会Java代码审计的黑客不是一个好师傅！
 
-本项目创建于2021年7月8日，最近的一次更新时间为2021年7月24日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2021年7月26日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java漏洞靶场审计](https://github.com/0e0w/Hackjava#0x01-Java%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA%E5%AE%A1%E8%AE%A1)
 - [0x02-Java代码审计工具](https://github.com/0e0w/Hackjava#0x02-Java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)
@@ -29,6 +29,7 @@
 - [ ] https://github.com/oversecured/ovaa
 - [ ] https://github.com/appsecco/dvja
 - [ ] https://github.com/jaiswalakshansh/Vuldroid
+- [ ] https://github.com/safe6Sec/ShiroAndFastJson
 
 ## 0x02-Java代码审计工具
 
@@ -97,3 +98,5 @@
 ## 0x06-Java代码审计培训
 
 ## 0x07-Java代码审计资源
+
+- [ ] [《静态程序分析入门教程》](https://github.com/RangerNJU/Static-Program-Analysis-Book)
