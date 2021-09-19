@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习Java代码审计过程中遇到的优秀内容，包括Java代码审计技巧以及优秀的代码审计案例。一个不会Java代码审计的师傅不是一个好黑客！一个不会Java代码审计的黑客不是一个好师傅！
 
-本项目创建于2021年7月8日，最近的一次更新时间为2021年9月12日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2021年9月19日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java代码审计资源](https://github.com/0e0w/HackJava#0x01-Java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
 - [0x02-Java漏洞靶场平台](https://github.com/0e0w/HackJava#0x02-Java%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA%E5%B9%B3%E5%8F%B0)
@@ -21,6 +21,7 @@
 二、视频教程
 
 三、其他资源
+- [ ] https://github.com/Firebasky/Java
 
 ## 0x02-Java漏洞靶场平台
 
@@ -50,11 +51,9 @@
 - [ ] https://github.com/5wimming/gadgetinspector
 
 二、IDEA
-
 - [ ] https://github.com/XianYanTechnology/RocB
 
 三、待整理
-
 - [ ] https://github.com/MobSF/mobsfscan
 - [ ] https://github.com/threedr3am/log-agent
 - [ ] https://github.com/wh1t3p1g/tabby
