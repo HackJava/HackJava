@@ -24,7 +24,7 @@
 
 三、其他资源
 - [ ] https://github.com/Firebasky/Java
-- [ ] [攻击Java Web应用](https://appts4jvi.zhishibox.net/b/5d644b6f81cbc9e40460fe7eea3c7925)
+- [ ] [《攻击Java Web应用》](https://appts4jvi.zhishibox.net/b/5d644b6f81cbc9e40460fe7eea3c7925)
 - [ ] [《静态程序分析入门教程》](https://github.com/RangerNJU/Static-Program-Analysis-Book)
 
 ## 0x02-Java漏洞靶场平台
@@ -126,7 +126,6 @@
 
 本人在学习Java代码审计的过程中遇到了很多优秀的Java代码审计工程师，感谢这些研究者！
 
-- [phith0n](https://www.leavesongs.com/)
-- 等
+- 待更新
 
 [![Stargazers over time](https://starchart.cc//0e0w/HackJava.svg)](https://starchart.cc/0e0w/HackJava)
