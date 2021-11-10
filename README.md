@@ -1,8 +1,8 @@
 # 《深入理解Java代码审计》
 
-本项目是记录自己在学习Java代码审计过程中遇到的优秀内容，包括Java代码审计技巧以及优秀的代码审计案例。一个不会Java代码审计的师傅不是一个好黑客！一个不会Java代码审计的黑客不是一个好师傅！
+本项目是记录自己在学习Java代码审计过程中遇到的优秀内容，包括Java代码审计技巧以及优秀的Java代码审计案例。一个不会Java代码审计的师傅不是一个好黑客，一个不会Java代码审计的黑客不是一个好师傅！深入理解Java代码审计，手握众多重点Java应用高危0day！
 
-本项目创建于2021年7月8日，最近的一次更新时间为2021年10月20日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2021年11月10日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java代码审计资源](https://github.com/0e0w/HackJava#0x01-Java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
 - [0x02-Java漏洞靶场平台](https://github.com/0e0w/HackJava#0x02-Java%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA%E5%B9%B3%E5%8F%B0)
@@ -11,17 +11,21 @@
 - [0x05-Java安全Web漏洞](https://github.com/0e0w/Hackjava#0x04-Java%E5%B8%B8%E8%A7%84Web%E6%BC%8F%E6%B4%9E)
 - [0x06-Java安全编码规范](https://github.com/0e0w/Hackjava#0x06-Java%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
 - [0x07-Java代码审计培训](https://github.com/0e0w/Hackjava#0x07-Java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%9F%B9%E8%AE%AD)
-- [0x08-Java代码审计参考](https://github.com/0e0w/Hackjava#0x08-Java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%8F%82%E8%80%83)
+- [0x08-Java代码审计老师](https://github.com/0e0w/Hackjava#0x08-Java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%80%81%E5%B8%88)
 
 ## 0x01-Java代码审计资源
 
 一、书籍资源
 - [ ] [《Java代码审计 入门篇》](https://item.jd.com/10033832360716.html)@陈俊杰等
+- [ ] [《Java代码审计实战》](https://item.jd.com/13466996.html)@高昌盛等
 
 二、视频教程
+- [ ] [《MS08067安全实验室》](https://space.bilibili.com/396298765?spm_id_from=333.788.b_765f7570696e666f.2)
 
 三、其他资源
 - [ ] https://github.com/Firebasky/Java
+- [ ] [攻击Java Web应用](https://appts4jvi.zhishibox.net/b/5d644b6f81cbc9e40460fe7eea3c7925)
+- [ ] [《静态程序分析入门教程》](https://github.com/RangerNJU/Static-Program-Analysis-Book)
 
 ## 0x02-Java漏洞靶场平台
 
@@ -54,12 +58,13 @@
 二、IDEA
 - [ ] https://github.com/XianYanTechnology/RocB
 
-三、待整理
+三、其他
 - [ ] https://github.com/MobSF/mobsfscan
 - [ ] https://github.com/threedr3am/log-agent
 - [ ] https://github.com/wh1t3p1g/tabby
 - [ ] https://github.com/KpLi0rn/ysoserial
 - [ ] https://github.com/EmYiQing/XVulnFinder
+- [ ] https://github.com/EmYiQing/CodeInspector
 
 ## 0x04-Java代码审计案例
 
@@ -78,7 +83,6 @@
 - [ ] https://github.com/welk1n/JNDI-Injection-Exploit
 - [ ] https://github.com/March110/javaweb-sec
 - [ ] https://github.com/wh1t3p1g/ysomap
-- [ ] [攻击Java Web应用](https://appts4jvi.zhishibox.net/b/5d644b6f81cbc9e40460fe7eea3c7925)
 - [ ] https://github.com/returntocorp/semgrep
 - [ ] https://github.com/mtxiaowangzi/CAFJE
 - [ ] https://github.com/MobSF/mobsfscan
@@ -104,6 +108,7 @@
   - https://github.com/wh1t3p1g/ysomap
   - https://github.com/JackOfMostTrades/gadgetinspector
   - https://github.com/0range228/Gadgets
+  - https://github.com/pmiaowu/DeserializationTest
 - XSS跨站脚本攻击
 - XML外部实体攻击
 - CSRF跨站请求伪造
@@ -117,6 +122,11 @@
 
 ## 0x07-Java代码审计培训
 
-## 0x08-Java代码审计参考
+## 0x08-Java代码审计老师
 
-- [ ] [《静态程序分析入门教程》](https://github.com/RangerNJU/Static-Program-Analysis-Book)
+本人在学习Java代码审计的过程中遇到了很多优秀的Java代码审计工程师，感谢这些研究者！
+
+- [phith0n](https://www.leavesongs.com/)
+- 等
+
+[![Stargazers over time](https://starchart.cc//0e0w/HackJava.svg)](https://starchart.cc/0e0w/HackJava)
