@@ -4,25 +4,23 @@
 
 本项目创建于2021年7月8日，最近的一次更新时间为2021年11月12日。本项目会持续更新，直到海枯石烂。
 
-- [01-Java代码审计资源]()
-- [02-Java代码审计工具]()
-- [03-Java漏洞靶场平台]()
-- [04-Java安全Web漏洞]()
-- [05-Java代码审计实战]()
-- [06-Java安全编码规范]()
-- [08-Java代码审计老师]()
+- [01-Java代码审计资源](https://github.com/0e0w/HackJava#01-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
+- [02-Java代码审计工具](https://github.com/0e0w/HackJava#02-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)
+- [03-Java漏洞靶场平台](https://github.com/0e0w/HackJava#03-java%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA%E5%B9%B3%E5%8F%B0)
+- [04-Java安全Web漏洞](https://github.com/0e0w/HackJava#04-java%E5%AE%89%E5%85%A8web%E6%BC%8F%E6%B4%9E)
+- [05-Java代码审计实战](https://github.com/0e0w/HackJava#05-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%AE%9E%E6%88%98)
+- [06-Java安全编码规范](https://github.com/0e0w/HackJava#06-java%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
+- [08-Java代码审计老师](https://github.com/0e0w/HackJava#07-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%80%81%E5%B8%88)
 
 ## 01-Java代码审计资源
 
 一、书籍教程
 - [ ] [《Java代码审计 入门篇》](https://item.jd.com/10033832360716.html)@陈俊杰等
 - [ ] [《Java代码审计实战》](https://item.jd.com/13466996.html)@高昌盛等
-
 - [ ] [《Java Web安全-代码审计》]()@凌天实验室
 - [ ] [《Java安全漫谈笔记相关》](https://github.com/phith0n/JavaThings)@phith0n
 
 二、审计案例
-
 - [ ] https://github.com/proudwind/javasec_study
 - [ ] https://github.com/threedr3am/learnjavabug
 - [ ] https://github.com/SummerSec/JavaLearnVulnerability
@@ -46,7 +44,6 @@
 - [ ] https://github.com/Firebasky/Java
 
 三、视频教程
-
 - [ ] [《MS08067安全实验室》](https://space.bilibili.com/396298765?spm_id_from=333.788.b_765f7570696e666f.2)
 
 四、培训演讲
@@ -54,7 +51,6 @@
 五、审计报告
 
 五、其他资源
-
 - [ ] [《攻击Java Web应用》](https://appts4jvi.zhishibox.net/b/5d644b6f81cbc9e40460fe7eea3c7925)
 - [ ] [《静态程序分析入门教程》](https://github.com/RangerNJU/Static-Program-Analysis-Book)
 
