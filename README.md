@@ -39,6 +39,7 @@
 三、视频教程
 - [ ] [《MS08067安全实验室》](https://space.bilibili.com/396298765?spm_id_from=333.788.b_765f7570696e666f.2)@MS08067
 - [ ] [《Java代码审计系列课程》](https://edu.51cto.com/course/27875.html)@Hack_Man
+- [ ] [《Java代码审计课程》](https://www.learnfuture.com/study/ist126v)@嘉为教育
 
 四、培训演讲
 
@@ -50,6 +51,7 @@
 - [ ] [《静态程序分析入门教程》](https://github.com/RangerNJU/Static-Program-Analysis-Book)
 - [ ] https://github.com/su18/JDBC-Attack
 - [ ] https://xz.aliyun.com/t/7945
+- [ ] http://tttang.com/archive/1322
 
 ## 02-Java代码审计工具
 
@@ -95,6 +97,7 @@
 ## 03-Java漏洞靶场平台
 
 - [ ] [WebBug-JavaEE编写的Web漏洞靶场](https://github.com/Mysticbinary/WebBug)@mysticbinary
+- [ ] [WebGoat-一个故意不安全的应用程序](https://github.com/WebGoat/WebGoat)@WebGoat
 - [ ] [JavaSecurity-Java Web漏洞演示程序](https://github.com/dschadow/JavaSecurity)@dschadow
 - [ ] [Java-Web-Security-书籍完整代码示例](https://github.com/dschadow/Java-Web-Security)@dschadow
 - [ ] [maobugs-Java 漏洞平台包含各种CVE演示](https://github.com/langligelang/maobugs)@langligelang
