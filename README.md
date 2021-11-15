@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习Java代码审计过程中遇到的优秀内容，包括Java代码审计技巧以及优秀的Java代码审计案例。一个不会Java代码审计的师傅不是一个好黑客，一个不会Java代码审计的黑客不是一个好师傅！深入理解Java代码审计，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w/HackJava)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2021年11月13日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2021年11月15日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java代码审计资源](https://github.com/0e0w/HackJava#01-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
 - [02-Java代码审计工具](https://github.com/0e0w/HackJava#02-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)
@@ -14,13 +14,14 @@
 
 ## 01-Java代码审计资源
 
-一、书籍教程
+一、书籍资料
 - [ ] [《Java代码审计 入门篇》](https://item.jd.com/10033832360716.html)@陈俊杰等
 - [ ] [《Java代码审计实战》](https://item.jd.com/13466996.html)@高昌盛等
-- [ ] [《Java Web安全-代码审计》]()@凌天实验室
-- [ ] [《Java安全漫谈笔记相关》](https://github.com/phith0n/JavaThings)@phith0n
+- [ ] [《Java-Web-Security》]()@Dominik Schadow
 
-二、审计案例
+二、基础教程
+- [ ] [《Java Web安全-代码审计》]()@凌天实验室
+- [ ] [《Java安全漫谈笔记相关内容》](https://github.com/phith0n/JavaThings)@phith0n
 - [ ] [《Java代码审计学习笔记》](https://github.com/proudwind/javasec_study)@proudwind
 - [ ] [《Java漏洞学习笔记》](https://github.com/SummerSec/JavaLearnVulnerability)@SummerSec
 - [ ] [《代码审计入门小项目》](https://github.com/cn-panda/JavaCodeAudit)@cn-panda
@@ -33,9 +34,10 @@
 - [ ] [《Java代码审计案例》](https://github.com/5huai/POC-Test)@5huai
 - [ ] [《java安全和java框架漏洞》](https://github.com/Firebasky/Java)@Firebasky
 - [ ] [《Java安全相关的漏洞和技术demo》](https://github.com/threedr3am/learnjavabug)@threedr3am
+- [ ] [《跟我一起JAVA代码审计》](https://www.freebuf.com/column/1289)@0neOfU4
 
 三、视频教程
-- [ ] [《MS08067安全实验室》](https://space.bilibili.com/396298765?spm_id_from=333.788.b_765f7570696e666f.2)
+- [ ] [《MS08067安全实验室》](https://space.bilibili.com/396298765?spm_id_from=333.788.b_765f7570696e666f.2)@MS08067
 - [ ] [《Java代码审计系列课程》](https://edu.51cto.com/course/27875.html)@Hack_Man
 
 四、培训演讲
@@ -47,6 +49,7 @@
 - [ ] [《J2EE 渗透测试与安全开发》](https://zhishihezi.net/b/98ae566719b21536dff0c4febaa697d2)@路人甲
 - [ ] [《静态程序分析入门教程》](https://github.com/RangerNJU/Static-Program-Analysis-Book)
 - [ ] https://github.com/su18/JDBC-Attack
+- [ ] https://xz.aliyun.com/t/7945
 
 ## 02-Java代码审计工具
 
@@ -54,7 +57,6 @@
 
 一、Frotify
 - [ ] https://github.com/wooyunwang/Fortify
-- [ ] https://github.com/5wimming/gadgetinspector
 
 二、IDEA
 - [ ] https://github.com/XianYanTechnology/RocB
@@ -72,9 +74,14 @@
 - [ ] https://github.com/KpLi0rn/ysoserial
 - [ ] https://github.com/0range228/Gadgets
 - [ ] https://github.com/ikkisoft/SerialKiller
+- [ ] https://github.com/5wimming/gadgetinspector
+- [ ] https://github.com/threedr3am/gadgetinspector
 - [ ] https://github.com/JackOfMostTrades/gadgetinspector
 
-五、其他工具
+五、文件监控类工具
+- [ ] https://github.com/TheKingOfDuck/MySQLMonitor
+
+六、其他工具
 - [ ] https://github.com/HXSecurity/DongTai
 - [ ] https://github.com/MobSF/mobsfscan
 - [ ] https://github.com/threedr3am/log-agent
@@ -87,29 +94,26 @@
 
 ## 03-Java漏洞靶场平台
 
-- [ ] https://github.com/Mysticbinary/WebBug
-- [ ] https://github.com/dschadow/JavaSecurity
-- [ ] https://github.com/dschadow/Java-Web-Security
-- [ ] https://github.com/novysodope/mytestvul
-- [ ] https://github.com/langligelang/maobugs
-- [ ] https://github.com/ityouknow/spring-boot-examples
-- [ ] https://github.com/NanoHttpd/nanohttpd
-- [ ] https://github.com/TheKingOfDuck/MySQLMonitor
-- [ ] https://github.com/tangxiaofeng7/SecExample
-- [ ] https://github.com/JoyChou93/java-sec-code
-- [ ] https://github.com/Zhangyao-zzyy/JavaVulnerableLab-circle
-- [ ] https://github.com/oversecured/ovaa
-- [ ] https://github.com/appsecco/dvja
-- [ ] https://github.com/jaiswalakshansh/Vuldroid
-- [ ] https://github.com/safe6Sec/ShiroAndFastJson
-- [ ] https://github.com/CSPF-Founder/JavaVulnerableLab
+- [ ] [WebBug-JavaEE编写的Web漏洞靶场](https://github.com/Mysticbinary/WebBug)@mysticbinary
+- [ ] [JavaSecurity-Java Web漏洞演示程序](https://github.com/dschadow/JavaSecurity)@dschadow
+- [ ] [Java-Web-Security-书籍完整代码示例](https://github.com/dschadow/Java-Web-Security)@dschadow
+- [ ] [maobugs-Java 漏洞平台包含各种CVE演示](https://github.com/langligelang/maobugs)@langligelang
+- [ ] [SecExample-Java漏洞靶场](https://github.com/tangxiaofeng7/SecExample)@tangxiaofeng7
+- [ ] [java sec code-学习Java漏洞代码的项目](https://github.com/JoyChou93/java-sec-code)@JoyChou93
+- [ ] [dvja-该死的易受攻击的 Java EE应用程序](https://github.com/appsecco/dvja)@appsecco
+- [ ] [JavaVulnerableLab-易受攻击的Java Web应用程序](https://github.com/CSPF-Founder/JavaVulnerableLab)@CSPF-Founder
+- [ ] [Java_deserialize_vuln_lab-Java反序列化学习的实验代码](https://github.com/bit4woo/Java_deserialize_vuln_lab)@bit4woo
+- [ ] [Java-EE-VulnWeb用于演示的Java Web漏洞项目](https://github.com/mtxiaowangzi/Java-EE-VulnWeb)@mtxiaowangzi
+- [ ] [Hello Java Sec-Java安全编码和代码审计](https://github.com/j3ers3/Hello-Java-Sec)@3ers3
+- [ ] [javaweb codereview-演示java代码审计程序](https://github.com/iiiusky/javaweb-codereview)@iiiusky
+- [ ] [sqlilab Jsp-jsp版sqlilab 1-21关](https://github.com/yhy0/sqlilab-Jsp)@yhy0
+- [ ] [ShiroAndFastJson-shiro加fastjson环境](https://github.com/safe6Sec/ShiroAndFastJson)@safe6Sec
+- [ ] [mytestvul-一个用来做漏洞复现/验证的小框架](https://github.com/novysodope/mytestvul)@novysodope
+- [ ] [JavaVulnerableLab circle-练习Java反序列化的最简单环境](https://github.com/pmiaowu/DeserializationTest)@pmiaowu
+- [ ] [易受攻击的Java Web应用程序](https://github.com/Zhangyao-zzyy/JavaVulnerableLab-circle)@Zhangyao-zzyy
 - [ ] https://github.com/t0thkr1s/allsafe
-- [ ] https://github.com/bit4woo/Java_deserialize_vuln_lab
-- [ ] https://github.com/mtxiaowangzi/Java-EE-VulnWeb
-- [ ] https://github.com/j3ers3/Hello-Java-Sec
-- [ ] https://github.com/iiiusky/javaweb-codereview
-- [ ] https://github.com/yhy0/sqlilab-Jsp
-- [ ] https://github.com/pmiaowu/DeserializationTest
+- [ ] https://github.com/oversecured/ovaa
+- [ ] https://github.com/jaiswalakshansh/Vuldroid
 
 ## 04-Java安全Web漏洞
 
@@ -125,10 +129,10 @@
 - 任意文件包含漏洞
 - 任意命令执行漏洞
 - Java反序列化漏洞
-- XSS跨站脚本攻击
-- XML外部实体攻击
-- CSRF跨站请求伪造
-- SSRF服务端请求伪造
+- XSS漏洞
+- XXE漏洞
+- CSRF漏洞
+- SSRF漏洞
 
 ## 05-Java代码审计实战
 
