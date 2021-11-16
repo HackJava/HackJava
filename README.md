@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习Java代码审计过程中遇到的优秀内容，包括Java代码审计技巧以及优秀的Java代码审计案例。一个不会Java代码审计的师傅不是一个好黑客，一个不会Java代码审计的黑客不是一个好师傅！深入理解Java代码审计，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w/HackJava)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2021年11月15日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2021年11月16日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java代码审计资源](https://github.com/0e0w/HackJava#01-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
 - [02-Java代码审计工具](https://github.com/0e0w/HackJava#02-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)
@@ -10,7 +10,7 @@
 - [04-Java安全Web漏洞](https://github.com/0e0w/HackJava#04-java%E5%AE%89%E5%85%A8web%E6%BC%8F%E6%B4%9E)
 - [05-Java代码审计实战](https://github.com/0e0w/HackJava#05-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%AE%9E%E6%88%98)
 - [06-Java安全编码规范](https://github.com/0e0w/HackJava#06-java%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
-- [08-Java代码审计老师](https://github.com/0e0w/HackJava#07-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%80%81%E5%B8%88)
+- [07-Java代码审计老师](https://github.com/0e0w/HackJava#07-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%80%81%E5%B8%88)
 
 ## 01-Java代码审计资源
 
@@ -52,6 +52,7 @@
 - [ ] https://github.com/su18/JDBC-Attack
 - [ ] https://xz.aliyun.com/t/7945
 - [ ] http://tttang.com/archive/1322
+- [ ] https://github.com/Ghost2097221/javaweb_security_study_notes
 
 ## 02-Java代码审计工具
 
@@ -79,6 +80,7 @@
 - [ ] https://github.com/5wimming/gadgetinspector
 - [ ] https://github.com/threedr3am/gadgetinspector
 - [ ] https://github.com/JackOfMostTrades/gadgetinspector
+- [ ] https://github.com/Afant1/JavaSearchTools
 
 五、文件监控类工具
 - [ ] https://github.com/TheKingOfDuck/MySQLMonitor
