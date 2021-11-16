@@ -17,6 +17,10 @@
 一、书籍资料
 - [ ] [《Java代码审计 入门篇》](https://item.jd.com/10033832360716.html)@陈俊杰等
 - [ ] [《Java代码审计实战》](https://item.jd.com/13466996.html)@高昌盛等
+- [ ] [《Java安全编码标准》](https://book.douban.com/subject/24846041)@计文柯译
+- [ ] [《Java安全性编程指南》]()@庞南
+- [ ] [《Java安全》]()@奥克斯
+- [ ] [《Java编码指南》](https://www.amazon.co.uk/%E7%BC%96%E5%86%99%E5%AE%89%E5%85%A8%E5%8F%AF%E9%9D%A0%E7%A8%8B%E5%BA%8F%E7%9A%8475%E6%9D%A1%E5%BB%BA%E8%AE%AE%EF%BC%88%E8%8B%B1%E6%96%87%E7%89%88%EF%BC%89-%E5%BE%B7%E9%B2%81%C2%B7%E8%8E%AB%E6%AC%A3%E8%BE%BE%EF%BC%88Dhruv-C-%E8%A5%BF%E7%A7%91%E5%BE%B7%EF%BC%88Robert-F-%E8%90%A8%E7%91%9F%E5%85%B0%EF%BC%88Dean-%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E6%9C%97%EF%BC%88Fred/dp/B017WGUFKO)@刘先宁
 - [ ] [《Java-Web-Security》]()@Dominik Schadow
 
 二、基础教程
@@ -40,6 +44,7 @@
 - [ ] [《MS08067安全实验室》](https://space.bilibili.com/396298765?spm_id_from=333.788.b_765f7570696e666f.2)@MS08067
 - [ ] [《Java代码审计系列课程》](https://edu.51cto.com/course/27875.html)@Hack_Man
 - [ ] [《Java代码审计课程》](https://www.learnfuture.com/study/ist126v)@嘉为教育
+- [ ] 《[宽字节安全 JAVA安全线上进阶课程](https://www.cnblogs.com/unicodeSec/p/15062087.html)》@宽字节
 
 四、培训演讲
 
@@ -52,6 +57,16 @@
 - [ ] https://github.com/su18/JDBC-Attack
 - [ ] https://xz.aliyun.com/t/7945
 - [ ] http://tttang.com/archive/1322
+- [ ] https://teamssix.com/211115-165745.html
+- [ ] https://teamssix.com/211115-123451.html
+- [ ] https://github.com/dean2021/java_security_book
+- [ ] https://github.com/yq1ng/Java
+- [ ] https://github.com/wa1ki0g/javasec
+- [ ] https://github.com/pen4uin/JavaSec
+- [ ] https://github.com/javaparser/javaparser
+- [ ] https://github.com/safe6Sec/JavaDeserialization
+- [ ] https://github.com/ninthDevilHAUNSTER/JavaSecLearning
+- [ ] https://github.com/Ghost2097221/javaweb_security_study_notes
 - [ ] https://github.com/Ghost2097221/javaweb_security_study_notes
 
 ## 02-Java代码审计工具
@@ -81,8 +96,10 @@
 - [ ] https://github.com/threedr3am/gadgetinspector
 - [ ] https://github.com/JackOfMostTrades/gadgetinspector
 - [ ] https://github.com/Afant1/JavaSearchTools
+- [ ] https://github.com/j1anFen/ysoserial_echo
 
 五、文件监控类工具
+- [ ] https://github.com/TheKingOfDuck/FileMonitor
 - [ ] https://github.com/TheKingOfDuck/MySQLMonitor
 
 六、其他工具
@@ -90,11 +107,13 @@
 - [ ] https://github.com/MobSF/mobsfscan
 - [ ] https://github.com/threedr3am/log-agent
 - [ ] https://github.com/wh1t3p1g/tabby
-- [ ] https://github.com/EmYiQing/XVulnFinder
+- [ ] https://github.com/j5s/XVulnFinder
 - [ ] https://github.com/EmYiQing/CodeInspector
 - [ ] https://github.com/mtxiaowangzi/CAFJE
 - [ ] https://github.com/FeeiCN/Cobra
 - [ ] https://github.com/returntocorp/semgrep
+- [ ] https://codeql.github.com
+- [ ] https://github.com/cqkenuo/LingZhi
 
 ## 03-Java漏洞靶场平台
 
@@ -116,6 +135,8 @@
 - [ ] [mytestvul-一个用来做漏洞复现/验证的小框架](https://github.com/novysodope/mytestvul)@novysodope
 - [ ] [JavaVulnerableLab circle-练习Java反序列化的最简单环境](https://github.com/pmiaowu/DeserializationTest)@pmiaowu
 - [ ] [易受攻击的Java Web应用程序](https://github.com/Zhangyao-zzyy/JavaVulnerableLab-circle)@Zhangyao-zzyy
+- [ ] https://github.com/l4yn3/micro_service_seclab
+- [ ] https://github.com/c0ny1/xxe-lab
 - [ ] https://github.com/t0thkr1s/allsafe
 - [ ] https://github.com/oversecured/ovaa
 - [ ] https://github.com/jaiswalakshansh/Vuldroid
@@ -143,12 +164,13 @@
 
 ## 06-Java安全编码规范
 
-- 腾讯-Java安全编码规范
-- 绿盟-Java安全编码规范
+- [腾讯-Java安全编码规范](https://github.com/Tencent/secguide/blob/main/Java%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
 - [陌陌-Java安全编码规范](https://github.com/momosecurity/rhizobia_J)
 - 华为-Java安全编码规范
+- 绿盟-Java安全编码规范
 - 奇安信-Java安全编码规范
 - 软通动力-Java-Web安全开发规范
+- [securitypaper-Java安全编码规范](https://www.securitypaper.org/2.sdl%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3/3-java%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
 
 ## 07-Java代码审计老师
 
