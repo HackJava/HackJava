@@ -44,7 +44,7 @@
 - [ ] [《MS08067安全实验室》](https://space.bilibili.com/396298765?spm_id_from=333.788.b_765f7570696e666f.2)@MS08067
 - [ ] [《Java代码审计系列课程》](https://edu.51cto.com/course/27875.html)@Hack_Man
 - [ ] [《Java代码审计课程》](https://www.learnfuture.com/study/ist126v)@嘉为教育
-- [ ] 《[宽字节安全 JAVA安全线上进阶课程](https://www.cnblogs.com/unicodeSec/p/15062087.html)》@宽字节
+- [ ] [《宽字节安全 JAVA安全线上进阶课程》](https://www.cnblogs.com/unicodeSec/p/15062087.html)@宽字节
 
 四、培训演讲
 
@@ -68,6 +68,8 @@
 - [ ] https://github.com/ninthDevilHAUNSTER/JavaSecLearning
 - [ ] https://github.com/Ghost2097221/javaweb_security_study_notes
 - [ ] https://github.com/Ghost2097221/javaweb_security_study_notes
+- [ ] https://github.com/Cryin/JavaID
+- [ ] [《Java代码审计文章集合》](https://www.cnblogs.com/r00tuser/p/10577571.html)@r00tuser
 
 ## 02-Java代码审计工具
 
