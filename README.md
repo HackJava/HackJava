@@ -21,7 +21,7 @@
 - [ ] [《Java安全性编程指南》]()@庞南
 - [ ] [《Java安全》]()@奥克斯
 - [ ] [《Java编码指南》](https://www.amazon.co.uk/%E7%BC%96%E5%86%99%E5%AE%89%E5%85%A8%E5%8F%AF%E9%9D%A0%E7%A8%8B%E5%BA%8F%E7%9A%8475%E6%9D%A1%E5%BB%BA%E8%AE%AE%EF%BC%88%E8%8B%B1%E6%96%87%E7%89%88%EF%BC%89-%E5%BE%B7%E9%B2%81%C2%B7%E8%8E%AB%E6%AC%A3%E8%BE%BE%EF%BC%88Dhruv-C-%E8%A5%BF%E7%A7%91%E5%BE%B7%EF%BC%88Robert-F-%E8%90%A8%E7%91%9F%E5%85%B0%EF%BC%88Dean-%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E6%9C%97%EF%BC%88Fred/dp/B017WGUFKO)@刘先宁
-- [ ] [《Java-Web-Security》]()@Dominik Schadow
+- [ ] [《Java-Web-Security》](https://play.google.com/store/books/details/Java_Web_Security_Sichere_Webanwendungen_mit_Java_?id=ZxZ4DwAAQBAJ&hl=en_US&gl=US)@Dominik Schadow
 
 二、基础教程
 - [ ] [《Java Web安全-代码审计》]()@凌天实验室
@@ -45,15 +45,21 @@
 - [ ] [《Java代码审计系列课程》](https://edu.51cto.com/course/27875.html)@Hack_Man
 - [ ] [《Java代码审计课程》](https://www.learnfuture.com/study/ist126v)@嘉为教育
 - [ ] [《宽字节安全 JAVA安全线上进阶课程》](https://www.cnblogs.com/unicodeSec/p/15062087.html)@宽字节
+- [ ] [《Securing Java Web Applications》](https://www.pluralsight.com/courses/java-web-application-security-vulnerabilities)@Josh Cummings
 
 四、培训演讲
 
-五、审计报告
+五、专利文献
 
-六、其他资源
+- [ ] [一种基于java的web动态安全漏洞检测方法](https://patents.google.com/patent/CN103699480B/zh)@安恒
+
+六、审计报告
+
+七、其他资源
 - [ ] [《攻击Java Web应用》](https://zhishihezi.net/b/5d644b6f81cbc9e40460fe7eea3c7925)@javasec
 - [ ] [《J2EE 渗透测试与安全开发》](https://zhishihezi.net/b/98ae566719b21536dff0c4febaa697d2)@路人甲
 - [ ] [《静态程序分析入门教程》](https://github.com/RangerNJU/Static-Program-Analysis-Book)
+- [ ] [《Java代码审计文章集合》](https://www.cnblogs.com/r00tuser/p/10577571.html)@r00tuser
 - [ ] https://github.com/su18/JDBC-Attack
 - [ ] https://xz.aliyun.com/t/7945
 - [ ] http://tttang.com/archive/1322
@@ -67,9 +73,8 @@
 - [ ] https://github.com/safe6Sec/JavaDeserialization
 - [ ] https://github.com/ninthDevilHAUNSTER/JavaSecLearning
 - [ ] https://github.com/Ghost2097221/javaweb_security_study_notes
-- [ ] https://github.com/Ghost2097221/javaweb_security_study_notes
 - [ ] https://github.com/Cryin/JavaID
-- [ ] [《Java代码审计文章集合》](https://www.cnblogs.com/r00tuser/p/10577571.html)@r00tuser
+- [ ] https://paper.seebug.org/312
 
 ## 02-Java代码审计工具
 
@@ -117,6 +122,11 @@
 - [ ] https://codeql.github.com
 - [ ] https://github.com/cqkenuo/LingZhi
 - [ ] https://github.com/blinkfox/stalker
+- [ ] https://github.com/spotbugs/spotbugs
+- [ ] https://github.com/SonarSource/sonarqube
+- [ ] https://www.jarchitect.com
+- [ ] https://checkstyle.sourceforge.io
+- [ ] https://github.com/eclipse/eclemma
 
 ## 03-Java漏洞靶场平台
 
@@ -139,6 +149,7 @@
 - [ ] [JavaVulnerableLab circle-练习Java反序列化的最简单环境](https://github.com/pmiaowu/DeserializationTest)@pmiaowu
 - [ ] [易受攻击的Java Web应用程序](https://github.com/Zhangyao-zzyy/JavaVulnerableLab-circle)@Zhangyao-zzyy
 - [ ] https://github.com/l4yn3/micro_service_seclab
+- [ ] https://gitee.com/cor0ps/java-range
 - [ ] https://github.com/c0ny1/xxe-lab
 - [ ] https://github.com/t0thkr1s/allsafe
 - [ ] https://github.com/oversecured/ovaa
