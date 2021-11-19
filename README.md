@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习Java代码审计过程中遇到的优秀内容，包括Java代码审计技巧以及优秀的Java代码审计案例。一个不会Java代码审计的师傅不是一个好黑客，一个不会Java代码审计的黑客不是一个好师傅！深入理解Java代码审计，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w/HackJava)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2021年11月17日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2021年11月19日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java代码审计资源](https://github.com/0e0w/HackJava#01-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
 - [02-Java代码审计工具](https://github.com/0e0w/HackJava#02-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)
@@ -36,7 +36,7 @@
 - [ ] [《Java代码审计总结》](https://github.com/huyuanzhi2/CodeReview)@huyuanzhi2
 - [ ] [《代码审计知识点整理-Java》](https://github.com/7hang/--Java)@7hang
 - [ ] [《Java代码审计案例》](https://github.com/5huai/POC-Test)@5huai
-- [ ] [《java安全和java框架漏洞》](https://github.com/Firebasky/Java)@Firebasky
+- [ ] [《Java安全和Java框架漏洞》](https://github.com/Firebasky/Java)@Firebasky
 - [ ] [《Java安全相关的漏洞和技术demo》](https://github.com/threedr3am/learnjavabug)@threedr3am
 - [ ] [《跟我一起JAVA代码审计》](https://www.freebuf.com/column/1289)@0neOfU4
 
@@ -56,6 +56,9 @@
 六、审计报告
 
 七、其他资源
+
+- https://github.com/topics/static-analysis?l=java
+
 - [ ] [《攻击Java Web应用》](https://zhishihezi.net/b/5d644b6f81cbc9e40460fe7eea3c7925)@javasec
 - [ ] [《J2EE 渗透测试与安全开发》](https://zhishihezi.net/b/98ae566719b21536dff0c4febaa697d2)@路人甲
 - [ ] [《静态程序分析入门教程》](https://github.com/RangerNJU/Static-Program-Analysis-Book)
