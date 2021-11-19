@@ -56,9 +56,7 @@
 六、审计报告
 
 七、其他资源
-
 - https://github.com/topics/static-analysis?l=java
-
 - [ ] [《攻击Java Web应用》](https://zhishihezi.net/b/5d644b6f81cbc9e40460fe7eea3c7925)@javasec
 - [ ] [《J2EE 渗透测试与安全开发》](https://zhishihezi.net/b/98ae566719b21536dff0c4febaa697d2)@路人甲
 - [ ] [《静态程序分析入门教程》](https://github.com/RangerNJU/Static-Program-Analysis-Book)
@@ -194,5 +192,9 @@
 本人在学习Java代码审计的过程中遇到了很多优秀的Java代码审计工程师，感谢这些研究者！
 
 - 待更新
+
+## 08-Java代码审计交流
+
+![](.\01-Java代码审计资源\TEMP\HackJava.png)
 
 [![Stargazers over time](https://starchart.cc//0e0w/HackJava.svg)](https://starchart.cc/0e0w/HackJava)
