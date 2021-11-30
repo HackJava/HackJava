@@ -1,8 +1,8 @@
 # 《深入理解Java代码审计》
 
-本项目是记录自己在学习Java代码审计过程中遇到的优秀内容，包括Java代码审计技巧以及优秀的Java代码审计案例。一个不会Java代码审计的师傅不是一个好黑客，一个不会Java代码审计的黑客不是一个好师傅！深入理解Java代码审计，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w/HackJava)
+本项目是记录自己在学习研究Java Web安全和Java代码审计过程中遇到的优秀内容，包括Java Web安全研究以及Java代码审计技巧案例等。一个不会Java代码审计的师傅不是一个好黑客，一个不会Java代码审计的黑客不是一个好师傅！深入理解Java代码审计，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w/HackJava)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2021年11月27日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2021年11月30日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java代码审计资源](https://github.com/0e0w/HackJava#01-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
 - [02-Java代码审计工具](https://github.com/0e0w/HackJava#02-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)
@@ -78,25 +78,26 @@
 - [ ] https://paper.seebug.org/312
 - [ ] https://tttang.com/archive/1337
 - [ ] https://paper.seebug.org/1766
+- [ ] https://github.com/p1n93r/javasec
 
 ## 02-Java代码审计工具
 
 工欲善其事必先利其器，此处收集整理Java代码审计的一些优秀工具！期待自己的代码审计工具能够早日发布！
 
-一、Frotify
+- Frotify
 - [ ] https://github.com/wooyunwang/Fortify
-
-二、IDEA
+- CodeQL
+- 洞态 IAST
+- RASP
+- IDEA
 - [ ] https://github.com/XianYanTechnology/RocB
 - [ ] https://github.com/momosecurity/momo-code-sec-inspector-java
-
-三、JNDI工具
+- JNDI工具
 - [ ] https://github.com/su18/JNDI
 - [ ] https://github.com/welk1n/JNDI-Injection-Exploit
 - [ ] https://github.com/feihong-cs/JNDIExploit
 - [ ] https://github.com/welk1n/JNDI-Injection-Exploit
-
-四、反序列化工具
+- 反序列化工具
 - [ ] https://github.com/wh1t3p1g/ysomap
 - [ ] https://github.com/frohoff/ysoserial
 - [ ] https://github.com/KpLi0rn/ysoserial
@@ -107,12 +108,11 @@
 - [ ] https://github.com/JackOfMostTrades/gadgetinspector
 - [ ] https://github.com/Afant1/JavaSearchTools
 - [ ] https://github.com/j1anFen/ysoserial_echo
-
-五、文件监控类工具
+- 文件监控类工具
 - [ ] https://github.com/TheKingOfDuck/FileMonitor
 - [ ] https://github.com/TheKingOfDuck/MySQLMonitor
-
-六、其他工具
+- [ ] https://github.com/Lotus6/FileMonitor
+- 其他工具
 - [ ] https://github.com/HXSecurity/DongTai
 - [ ] https://github.com/MobSF/mobsfscan
 - [ ] https://github.com/threedr3am/log-agent
@@ -130,6 +130,7 @@
 - [ ] https://www.jarchitect.com
 - [ ] https://checkstyle.sourceforge.io
 - [ ] https://github.com/eclipse/eclemma
+- [ ] https://github.com/p1n93r/AttackJNDI
 
 ## 03-Java漏洞靶场平台
 
@@ -192,9 +193,11 @@
 
 ## 07-Java代码审计老师
 
-本人在学习Java代码审计的过程中遇到了很多优秀的Java代码审计工程师，感谢这些研究者！
+本人在学习Java代码审计的过程中遇到了很多优秀的Java代码审计工程师，感谢这些研究者！排名不分先后。
 
-- 待更新
+- https://github.com/EmYiQing
+- https://github.com/phith0n
+- https://github.com/su18
 
 ## 08-Java代码审计交流
 
