@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习研究Java Web安全和Java代码审计过程中遇到的优秀内容，包括Java Web安全研究以及Java代码审计技巧案例等。一个不会Java代码审计的师傅不是一个好黑客，一个不会Java代码审计的黑客不是一个好师傅！深入理解Java代码审计，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w/HackJava)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2021年11月30日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2021年12月1日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java代码审计资源](https://github.com/0e0w/HackJava#01-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
 - [02-Java代码审计工具](https://github.com/0e0w/HackJava#02-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)
@@ -97,6 +97,7 @@
 - [ ] https://github.com/welk1n/JNDI-Injection-Exploit
 - [ ] https://github.com/feihong-cs/JNDIExploit
 - [ ] https://github.com/welk1n/JNDI-Injection-Exploit
+- [ ] https://github.com/0x727/JNDIExploit
 - 反序列化工具
 - [ ] https://github.com/wh1t3p1g/ysomap
 - [ ] https://github.com/frohoff/ysoserial
