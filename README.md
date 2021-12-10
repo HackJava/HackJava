@@ -5,8 +5,8 @@
 本项目创建于2021年7月8日，最近的一次更新时间为2021年12月7日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java代码审计资源](https://github.com/0e0w/HackJava#01-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
-- [02-Java代码审计工具](https://github.com/0e0w/HackJava#02-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)
-- [03-Java漏洞靶场平台](https://github.com/0e0w/HackJava#03-java%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA%E5%B9%B3%E5%8F%B0)
+- [02-Java安全研究工具](https://github.com/0e0w/HackJava#02-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
+- [03-Java安全漏洞靶场](https://github.com/0e0w/HackJava#03-java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA)
 - [04-Java安全Web漏洞](https://github.com/0e0w/HackJava#04-java%E5%AE%89%E5%85%A8web%E6%BC%8F%E6%B4%9E)
 - [05-Java代码审计实战](https://github.com/0e0w/HackJava#05-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%AE%9E%E6%88%98)
 - [06-Java安全编码规范](https://github.com/0e0w/HackJava#06-java%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
@@ -80,7 +80,7 @@
 - [ ] https://paper.seebug.org/1766
 - [ ] https://github.com/p1n93r/javasec
 
-## 02-Java代码审计工具
+## 02-Java安全研究工具
 
 工欲善其事必先利其器，此处收集整理Java代码审计的一些优秀工具！期待自己的代码审计工具能够早日发布！
 
@@ -96,8 +96,9 @@
 - [ ] https://github.com/su18/JNDI
 - [ ] https://github.com/welk1n/JNDI-Injection-Exploit
 - [ ] https://github.com/feihong-cs/JNDIExploit
-- [ ] https://github.com/welk1n/JNDI-Injection-Exploit
 - [ ] https://github.com/0x727/JNDIExploit
+- [ ] https://github.com/veracode-research/rogue-jndi
+- [ ] https://github.com/quentinhardy/jndiat
 - 反序列化工具
 - [ ] https://github.com/wh1t3p1g/ysomap
 - [ ] https://github.com/frohoff/ysoserial
@@ -133,7 +134,7 @@
 - [ ] https://github.com/eclipse/eclemma
 - [ ] https://github.com/p1n93r/AttackJNDI
 
-## 03-Java漏洞靶场平台
+## 03-Java安全漏洞靶场
 
 - [ ] [WebBug-JavaEE编写的Web漏洞靶场](https://github.com/Mysticbinary/WebBug)@mysticbinary
 - [ ] [WebGoat-一个故意不安全的应用程序](https://github.com/WebGoat/WebGoat)@WebGoat
@@ -199,6 +200,7 @@
 - https://github.com/EmYiQing
 - https://github.com/phith0n
 - https://github.com/su18
+- https://github.com/welk1n
 
 ## 08-Java代码审计交流
 
