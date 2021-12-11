@@ -93,7 +93,9 @@
 - [ ] https://github.com/XianYanTechnology/RocB
 - [ ] https://github.com/momosecurity/momo-code-sec-inspector-java
 - JNDI工具
-- [ ] https://github.com/su18/JNDI
+- [ ] https://github.com/bradfitz/jndi
+- https://github.com/EmYiQing/LDAPKit
+- https://github.com/su18/JNDI
 - [ ] https://github.com/welk1n/JNDI-Injection-Exploit
 - [ ] https://github.com/feihong-cs/JNDIExploit
 - [ ] https://github.com/0x727/JNDIExploit
