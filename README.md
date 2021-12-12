@@ -1,18 +1,18 @@
-# 《深入理解Java代码审计》
+# 《Java安全-只有Java安全才能拯救世界》
 
-本项目是记录自己在学习研究Java Web安全和Java代码审计过程中遇到的优秀内容，包括Java Web安全研究以及Java代码审计技巧案例等。一个不会Java代码审计的师傅不是一个好黑客，一个不会Java代码审计的黑客不是一个好师傅！深入理解Java代码审计，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w/HackJava)
+本项目是记录自己在学习研究Java安全过程中遇到的优秀内容，包括JavaWeb安全代码审计资源以及Java构建的应用程序组件协议的安全等内容。一个不会Java攻击的黑客不是一个好师傅，一个不懂Java安全的师傅不是一个好黑客！深入理解Java安全，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w/HackJava)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2021年12月11日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2021年12月12日。本项目会持续更新，直到海枯石烂。
 
-- [01-Java代码审计资源](https://github.com/0e0w/HackJava#01-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
+- [01-Java安全研究资源](https://github.com/0e0w/HackJava#01-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
 - [02-Java安全研究工具](https://github.com/0e0w/HackJava#02-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
-- [03-Java安全漏洞靶场](https://github.com/0e0w/HackJava#03-java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA)
-- [04-Java安全Web漏洞](https://github.com/0e0w/HackJava#04-java%E5%AE%89%E5%85%A8web%E6%BC%8F%E6%B4%9E)
-- [05-Java代码审计实战](https://github.com/0e0w/HackJava#05-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%AE%9E%E6%88%98)
-- [06-Java安全编码规范](https://github.com/0e0w/HackJava#06-java%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
-- [07-Java代码审计老师](https://github.com/0e0w/HackJava#07-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%80%81%E5%B8%88)
+- [03-Java安全漏洞环境](https://github.com/0e0w/HackJava#03-java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83)
+- [04-Java安全漏洞分类](https://github.com/0e0w/HackJava#04-Java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%88%86%E7%B1%BB)
+- [05-Java安全代码审计](https://github.com/0e0w/HackJava#05-Java%E5%AE%89%E5%85%A8%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
+- [06-Java安全高危应用](https://github.com/0e0w/HackJava#06-java%E5%AE%89%E5%85%A8%E9%AB%98%E5%8D%B1%E5%BA%94%E7%94%A8)
+- [07-Java安全参考资源](https://github.com/0e0w/HackJava#06-java%E5%AE%89%E5%85%A8%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90)
 
-## 01-Java代码审计资源
+## 01-Java安全研究资源
 
 一、书籍资料
 - [ ] [《Java代码审计 入门篇》](https://item.jd.com/10033832360716.html)@陈俊杰等
@@ -136,7 +136,7 @@
 - [ ] https://checkstyle.sourceforge.io
 - [ ] https://github.com/eclipse/eclemma
 
-## 03-Java安全漏洞靶场
+## 03-Java安全漏洞环境
 
 - [ ] [WebBug-JavaEE编写的Web漏洞靶场](https://github.com/Mysticbinary/WebBug)@mysticbinary
 - [ ] [WebGoat-一个故意不安全的应用程序](https://github.com/WebGoat/WebGoat)@WebGoat
@@ -164,28 +164,30 @@
 - [ ] https://github.com/oversecured/ovaa
 - [ ] https://github.com/jaiswalakshansh/Vuldroid
 
-## 04-Java安全Web漏洞
+## 04-Java安全漏洞分类
 
-本部分详细列举常见的Java安全漏洞内容。
-
-- 程序安装问题
-- 业务逻辑漏洞
-- SQL注入漏洞
-- 变量覆盖漏洞
+- Java反序列化漏洞
 - 任意文件上传漏洞
 - 任意文件写入漏洞
 - 任意文件删除漏洞
 - 任意文件包含漏洞
 - 任意命令执行漏洞
-- Java反序列化漏洞
+- 程序安装问题
+- 业务逻辑漏洞
+- SQL注入漏洞
+- 变量覆盖漏洞
 - XSS漏洞
 - XXE漏洞
 - CSRF漏洞
 - SSRF漏洞
 
-## 05-Java代码审计实战
+## 05-Java安全代码审计
 
-## 06-Java安全编码规范
+一、Java安全Web漏洞
+
+二、Java代码审计实战
+
+三、Java安全编码规范
 
 - [腾讯-Java安全编码规范](https://github.com/Tencent/secguide/blob/main/Java%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
 - [陌陌-Java安全编码规范](https://github.com/momosecurity/rhizobia_J)
@@ -195,7 +197,9 @@
 - 软通动力-Java-Web安全开发规范
 - [securitypaper-Java安全编码规范](https://www.securitypaper.org/2.sdl%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3/3-java%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
 
-## 07-Java代码审计老师
+## 06-Java安全高危应用
+
+## 07-Java安全参考资源
 
 本人在学习Java代码审计的过程中遇到了很多优秀的Java代码审计工程师，感谢这些研究者！排名不分先后。
 
@@ -204,8 +208,8 @@
 - https://github.com/su18
 - https://github.com/welk1n
 
-## 08-Java代码审计交流
+## 08-Java安全交流群组
 
-![](01-Java代码审计资源/TEMP/HackJava.png)
+![](01-Java安全研究资源/TEMP/HackJava.png)
 
 [![Stargazers over time](https://starchart.cc//0e0w/HackJava.svg)](https://starchart.cc/0e0w/HackJava)
