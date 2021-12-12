@@ -1,6 +1,6 @@
 # 《Java安全-只有Java安全才能拯救世界》
 
-本项目是记录自己在学习研究Java安全过程中遇到的优秀内容，包括JavaWeb安全代码审计资源以及Java构建的应用程序组件协议的安全等内容。一个不会Java攻击的黑客不是一个好师傅，一个不懂Java安全的师傅不是一个好黑客！深入理解Java安全，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w/HackJava)
+本项目是记录自己在学习研究Java安全过程中遇到的优秀内容，包括JavaWeb安全代码审计资源以及Java构建的应用程序组件协议的安全等内容。一个不会Java攻击的黑客不是一个好师傅，一个不懂Java安全的师傅不是一个好黑客！深入理解Java安全，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
 本项目创建于2021年7月8日，最近的一次更新时间为2021年12月12日。本项目会持续更新，直到海枯石烂。
 
@@ -10,7 +10,7 @@
 - [04-Java安全漏洞分类](https://github.com/0e0w/HackJava#04-Java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%88%86%E7%B1%BB)
 - [05-Java安全代码审计](https://github.com/0e0w/HackJava#05-Java%E5%AE%89%E5%85%A8%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
 - [06-Java安全高危应用](https://github.com/0e0w/HackJava#06-java%E5%AE%89%E5%85%A8%E9%AB%98%E5%8D%B1%E5%BA%94%E7%94%A8)
-- [07-Java安全参考资源](https://github.com/0e0w/HackJava#06-java%E5%AE%89%E5%85%A8%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90)
+- [07-Java安全参考资源](https://github.com/0e0w/HackJava#07-java%E5%AE%89%E5%85%A8%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90)
 
 ## 01-Java安全研究资源
 
@@ -94,8 +94,8 @@
 - [ ] https://github.com/momosecurity/momo-code-sec-inspector-java
 - JNDI工具
 - [ ] https://github.com/bradfitz/jndi
-- https://github.com/EmYiQing/LDAPKit
-- https://github.com/su18/JNDI
+- [ ] https://github.com/EmYiQing/LDAPKit
+- [ ] https://github.com/su18/JNDI
 - [ ] https://github.com/welk1n/JNDI-Injection-Exploit
 - [ ] https://github.com/feihong-cs/JNDIExploit
 - [ ] https://github.com/0x727/JNDIExploit
@@ -137,6 +137,8 @@
 - [ ] https://github.com/eclipse/eclemma
 
 ## 03-Java安全漏洞环境
+
+此处收集整理Java安全漏洞研究的一些环境，包括Web环境，应用框架漏洞环境等。
 
 - [ ] [WebBug-JavaEE编写的Web漏洞靶场](https://github.com/Mysticbinary/WebBug)@mysticbinary
 - [ ] [WebGoat-一个故意不安全的应用程序](https://github.com/WebGoat/WebGoat)@WebGoat
