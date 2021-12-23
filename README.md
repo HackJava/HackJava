@@ -1,8 +1,8 @@
-# 《Java安全-只有Java安全才能拯救世界》
+# 《Java安全-只有Java安全才能拯救宇宙》
 
 本项目是记录自己在学习研究Java安全过程中遇到的优秀内容，包括JavaWeb安全代码审计资源以及Java构建的应用程序组件协议的安全等内容。一个不会Java攻击的黑客不是一个好师傅，一个不懂Java安全的师傅不是一个好黑客！深入理解Java安全，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2021年12月12日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2021年12月23日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java安全研究资源](https://github.com/0e0w/HackJava#01-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
 - [02-Java安全研究工具](https://github.com/0e0w/HackJava#02-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
@@ -15,7 +15,7 @@
 ## 01-Java安全研究资源
 
 一、书籍资料
-- [ ] [《Java代码审计 入门篇》](https://item.jd.com/10033832360716.html)@陈俊杰等
+- [ ] [《Java代码审计-入门篇》](https://item.jd.com/10033832360716.html)@陈俊杰等
 - [ ] [《Java代码审计实战》](https://item.jd.com/13466996.html)@高昌盛等
 - [ ] [《Java安全编码标准》](https://book.douban.com/subject/24846041)@计文柯译
 - [ ] [《Java安全性编程指南》]()@庞南
@@ -84,10 +84,14 @@
 
 工欲善其事必先利其器，此处收集整理Java代码审计的一些优秀工具！期待自己的代码审计工具能够早日发布！
 
+一、IAST
+
+- 洞态 IAST
+
+二、CodeQL
+
 - Frotify
 - [ ] https://github.com/wooyunwang/Fortify
-- CodeQL
-- 洞态 IAST
 - RASP
 - IDEA
 - [ ] https://github.com/XianYanTechnology/RocB
@@ -102,6 +106,7 @@
 - [ ] https://github.com/veracode-research/rogue-jndi
 - [ ] https://github.com/quentinhardy/jndiat
 - [ ] https://github.com/p1n93r/AttackJNDI
+- [ ] https://github.com/Jeromeyoung/JNDIExploit-1
 - 反序列化工具
 - [ ] https://github.com/wh1t3p1g/ysomap
 - [ ] https://github.com/frohoff/ysoserial
@@ -165,6 +170,8 @@
 - [ ] https://github.com/t0thkr1s/allsafe
 - [ ] https://github.com/oversecured/ovaa
 - [ ] https://github.com/jaiswalakshansh/Vuldroid
+- [ ] https://github.com/baidu-security/openrasp-testcases
+- [ ] https://github.com/cschneider4711/Marathon
 
 ## 04-Java安全漏洞分类
 
@@ -209,6 +216,7 @@
 - https://github.com/phith0n
 - https://github.com/su18
 - https://github.com/welk1n
+- https://github.com/threedr3am
 
 ## 08-Java安全交流群组
 
