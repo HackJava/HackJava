@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习研究Java安全过程中遇到的优秀内容，包括JavaWeb安全代码审计资源以及Java构建的应用程序组件协议的安全等内容。一个不会Java攻击的黑客不是一个好师傅，一个不懂Java安全的师傅不是一个好黑客！深入理解Java安全，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2022年1月4日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2022年1月6日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java安全研究资源](https://github.com/0e0w/HackJava#01-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
 - [02-Java安全研究工具](https://github.com/0e0w/HackJava#02-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
@@ -97,6 +97,7 @@
 - IDEA
 - [ ] https://github.com/XianYanTechnology/RocB
 - [ ] https://github.com/momosecurity/momo-code-sec-inspector-java
+- [ ] https://github.com/XmirrorSecurity/OpenSCA-intellij-plugin
 - JNDI工具
 - [ ] https://github.com/bradfitz/jndi
 - [ ] https://github.com/EmYiQing/LDAPKit
@@ -109,6 +110,7 @@
 - [ ] https://github.com/p1n93r/AttackJNDI
 - [ ] https://github.com/Jeromeyoung/JNDIExploit-1
 - [ ] https://github.com/exp1orer/JNDI-Inject-Exploit
+- [ ] https://github.com/zu1k/ldap-log
 - 反序列化工具
 - [ ] https://github.com/wh1t3p1g/ysomap
 - [ ] https://github.com/frohoff/ysoserial
