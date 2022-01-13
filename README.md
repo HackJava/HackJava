@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习研究Java安全过程中遇到的优秀内容，包括JavaWeb安全代码审计资源以及Java构建的应用程序组件协议的安全等内容。一个不会Java攻击的黑客不是一个好师傅，一个不懂Java安全的师傅不是一个好黑客！深入理解Java安全，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2022年1月10日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2022年1月11日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java安全研究资源](https://github.com/0e0w/HackJava#01-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
 - [02-Java安全研究工具](https://github.com/0e0w/HackJava#02-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
@@ -39,6 +39,7 @@
 - [ ] [《Java安全和Java框架漏洞》](https://github.com/Firebasky/Java)@Firebasky
 - [ ] [《Java安全相关的漏洞和技术demo》](https://github.com/threedr3am/learnjavabug)@threedr3am
 - [ ] [《跟我一起JAVA代码审计》](https://www.freebuf.com/column/1289)@0neOfU4
+- [ ] [《告别脚本小子系列丨JAVA安全》](https://mp.weixin.qq.com/s/oEI1GLJKSoSLxMcAhFFWKQ)@烽火台实验室
 
 三、视频教程
 - [ ] [《MS08067安全实验室》](https://space.bilibili.com/396298765?spm_id_from=333.788.b_765f7570696e666f.2)@MS08067
@@ -147,6 +148,8 @@
 - [ ] https://github.com/eclipse/eclemma
 - [ ] https://github.com/phith0n/zkar
 - [ ] https://github.com/Firebasky/GoRmi
+- [ ] https://github.com/LostZX/Kakaka
+- [ ] https://github.com/jenkinsci/snyk-security-scanner-plugin
 
 ## 03-Java安全漏洞环境
 
