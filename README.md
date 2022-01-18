@@ -9,8 +9,9 @@
 - [03-Java安全漏洞环境](https://github.com/0e0w/HackJava#03-java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83)
 - [04-Java安全漏洞分类](https://github.com/0e0w/HackJava#04-Java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%88%86%E7%B1%BB)
 - [05-Java安全代码审计](https://github.com/0e0w/HackJava#05-Java%E5%AE%89%E5%85%A8%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
-- [06-Java安全高危应用](https://github.com/0e0w/HackJava#06-java%E5%AE%89%E5%85%A8%E9%AB%98%E5%8D%B1%E5%BA%94%E7%94%A8)
-- [07-Java安全参考资源](https://github.com/0e0w/HackJava#07-java%E5%AE%89%E5%85%A8%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90)
+- [06-Java安全漏洞修复](https://github.com/0e0w/HackJava#06-java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D)
+- [07-Java安全高危应用](https://github.com/0e0w/HackJava#07-java%E5%AE%89%E5%85%A8%E9%AB%98%E5%8D%B1%E5%BA%94%E7%94%A8)
+- [08-Java安全参考资源](https://github.com/0e0w/HackJava#08-java%E5%AE%89%E5%85%A8%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90)
 
 ## 01-Java安全研究资源
 
@@ -87,20 +88,37 @@
 
 工欲善其事必先利其器，此处收集整理Java代码审计的一些优秀工具！期待自己的代码审计工具能够早日发布！
 
-一、IAST
+一、SAST
 
-- 洞态 IAST
+- https://github.com/0e0w/SAST
 
-二、CodeQL
-
-- Frotify
 - [ ] https://github.com/wooyunwang/Fortify
-- RASP
-- IDEA
-- [ ] https://github.com/XianYanTechnology/RocB
-- [ ] https://github.com/momosecurity/momo-code-sec-inspector-java
-- [ ] https://github.com/XmirrorSecurity/OpenSCA-intellij-plugin
-- JNDI工具
+- [ ] https://github.com/FeeiCN/Cobra
+- [ ] https://github.com/LoRexxar/Kunlun-M
+- [ ] https://checkstyle.sourceforge.io
+
+二、DAST
+
+- https://github.com/0e0w/DAST
+
+三、IAST
+
+- https://github.com/0e0w/IAST
+- https://github.com/HXSecurity/DongTai
+
+四、CodeQL
+
+- https://github.com/0e0w/CodeQL
+- https://codeql.github.com
+
+五、RASP
+
+- https://github.com/0e0w/RASP
+
+六、JNDI
+
+- https://github.com/0e0w/JNDI
+
 - [ ] https://github.com/bradfitz/jndi
 - [ ] https://github.com/EmYiQing/LDAPKit
 - [ ] https://github.com/su18/JNDI
@@ -114,7 +132,9 @@
 - [ ] https://github.com/exp1orer/JNDI-Inject-Exploit
 - [ ] https://github.com/zu1k/ldap-log
 - [ ] https://github.com/orleven/Celestion
-- 反序列化工具
+
+七、Deserialization
+
 - [ ] https://github.com/wh1t3p1g/ysomap
 - [ ] https://github.com/frohoff/ysoserial
 - [ ] https://github.com/KpLi0rn/ysoserial
@@ -125,27 +145,33 @@
 - [ ] https://github.com/JackOfMostTrades/gadgetinspector
 - [ ] https://github.com/Afant1/JavaSearchTools
 - [ ] https://github.com/j1anFen/ysoserial_echo
-- 文件监控类工具
+
+八、Monitor
+
 - [ ] https://github.com/TheKingOfDuck/FileMonitor
 - [ ] https://github.com/TheKingOfDuck/MySQLMonitor
 - [ ] https://github.com/Lotus6/FileMonitor
-- 其他工具
-- [ ] https://github.com/HXSecurity/DongTai
+
+九、IDEA
+
+- [ ] https://github.com/XianYanTechnology/RocB
+- [ ] https://github.com/momosecurity/momo-code-sec-inspector-java
+- [ ] https://github.com/XmirrorSecurity/OpenSCA-intellij-plugin
+
+十、Others
+
 - [ ] https://github.com/MobSF/mobsfscan
 - [ ] https://github.com/threedr3am/log-agent
 - [ ] https://github.com/wh1t3p1g/tabby
 - [ ] https://github.com/j5s/XVulnFinder
 - [ ] https://github.com/EmYiQing/CodeInspector
 - [ ] https://github.com/mtxiaowangzi/CAFJE
-- [ ] https://github.com/FeeiCN/Cobra
 - [ ] https://github.com/returntocorp/semgrep
-- [ ] https://codeql.github.com
 - [ ] https://github.com/cqkenuo/LingZhi
 - [ ] https://github.com/blinkfox/stalker
 - [ ] https://github.com/spotbugs/spotbugs
 - [ ] https://github.com/SonarSource/sonarqube
 - [ ] https://www.jarchitect.com
-- [ ] https://checkstyle.sourceforge.io
 - [ ] https://github.com/eclipse/eclemma
 - [ ] https://github.com/phith0n/zkar
 - [ ] https://github.com/Firebasky/GoRmi
@@ -189,19 +215,19 @@
 ## 04-Java安全漏洞分类
 
 - Java反序列化漏洞
+- 任意命令执行漏洞
 - 任意文件上传漏洞
 - 任意文件写入漏洞
-- 任意文件删除漏洞
 - 任意文件包含漏洞
-- 任意命令执行漏洞
-- 程序安装问题
-- 业务逻辑漏洞
+- 任意文件删除漏洞
 - SQL注入漏洞
+- 业务逻辑漏洞
 - 变量覆盖漏洞
+- 程序安装问题
 - XSS漏洞
 - XXE漏洞
-- CSRF漏洞
 - SSRF漏洞
+- CSRF漏洞
 
 ## 05-Java安全代码审计
 
@@ -209,7 +235,13 @@
 
 二、Java代码审计实战
 
-三、Java安全编码规范
+## 06-Java安全漏洞修复
+
+一、Java安全编码规范
+
+- [x] [《Java安全编码标准》](https://developer.aliyun.com/article/175341)@计文柯
+
+- [OWASP 安全编码规范](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_%28Chinese%29.pdf)
 
 - [腾讯-Java安全编码规范](https://github.com/Tencent/secguide/blob/main/Java%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
 - [陌陌-Java安全编码规范](https://github.com/momosecurity/rhizobia_J)
@@ -219,19 +251,24 @@
 - 软通动力-Java-Web安全开发规范
 - [securitypaper-Java安全编码规范](https://www.securitypaper.org/2.sdl%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3/3-java%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
 
-## 06-Java安全高危应用
+二、Java安全漏洞修复
 
-## 07-Java安全参考资源
+## 07-Java安全高危应用
 
-本人在学习Java代码审计的过程中遇到了很多优秀的Java代码审计工程师，感谢这些研究者！排名不分先后。
+此处整理收集Java开发的普遍使用的程序：包括中间件、核心框架、底层库、重要应用系统等。待更新。
+
+## 08-Java安全参考资源
+
+本人在学习Java安全的过程中遇到了很多优秀的Java安全研究员，感谢这些研究者！排名不分先后。
 
 - https://github.com/EmYiQing
 - https://github.com/phith0n
 - https://github.com/su18
 - https://github.com/welk1n
 - https://github.com/threedr3am
+- https://github.com/Y4er
 
-## 08-Java安全交流群组
+## 09-Java安全交流群组
 
 ![](01-Java安全研究资源/TEMP/HackJava.png)
 
