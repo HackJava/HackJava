@@ -227,11 +227,8 @@
 ## 06-Java安全漏洞修复
 
 一、Java安全编码规范
-
 - [x] [《Java安全编码标准》](https://developer.aliyun.com/article/175341)@计文柯
-
 - [OWASP 安全编码规范](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_%28Chinese%29.pdf)
-
 - [腾讯-Java安全编码规范](https://github.com/Tencent/secguide/blob/main/Java%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
 - [陌陌-Java安全编码规范](https://github.com/momosecurity/rhizobia_J)
 - 华为-Java安全编码规范
