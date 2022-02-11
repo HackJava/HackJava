@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习研究Java安全过程中遇到的优秀内容，包括JavaWeb安全代码审计资源以及Java构建的应用程序组件协议的安全等内容。一个不会Java攻击的黑客不是一个好师傅，一个不懂Java安全的师傅不是一个好黑客！深入理解Java安全，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2022年2月9日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2022年2月11日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java安全研究资源](https://github.com/0e0w/HackJava#01-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
 - [02-Java安全研究工具](https://github.com/0e0w/HackJava#02-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
@@ -89,7 +89,7 @@
 工欲善其事必先利其器，此处收集整理Java代码审计的一些优秀工具！期待自己的代码审计工具能够早日发布！
 
 一、SAST
-- https://github.com/0e0w/SAST
+- https://github.com/ASTTeam/SAST
 - [ ] https://github.com/wooyunwang/Fortify
 - [ ] https://github.com/FeeiCN/Cobra
 - [ ] https://github.com/LoRexxar/Kunlun-M
@@ -98,10 +98,10 @@
 - [ ] [Tencent Xcheck](https://cloud.tencent.com/product/asd)
 
 二、DAST
-- https://github.com/0e0w/DAST
+- https://github.com/ASTTeam/DAST
 
 三、IAST
-- https://github.com/0e0w/IAST
+- https://github.com/ASTTeam/IAST
 - https://github.com/HXSecurity/DongTai
 
 四、CodeQL
@@ -112,7 +112,7 @@
 - https://github.com/0e0w/RASP
 
 六、JNDI
-- https://github.com/0e0w/JNDI
+- https://github.com/HackJava/JNDI
 - [ ] https://github.com/bradfitz/jndi
 - [ ] https://github.com/EmYiQing/LDAPKit
 - [ ] https://github.com/su18/JNDI
@@ -208,6 +208,7 @@
 - [ ] https://github.com/OWASP-Benchmark/BenchmarkJava
 - [ ] https://github.com/EmYiQing/CIDemo
 - [ ] https://github.com/Y4tacker/JavaSec
+- [ ] https://github.com/javaweb-sec/javaweb-vuls
 
 ## 04-Java安全漏洞分类
 
@@ -264,6 +265,6 @@
 
 ## 09-Java安全交流群组
 
-![](01-Java安全研究资源/TEMP/HackJava.png)
+![](01-Java安全研究资源/TEMP/wx.png)
 
 [![Stargazers over time](https://starchart.cc//HackJava/HackJava.svg)](https://starchart.cc/HackJava/HackJava)
