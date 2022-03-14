@@ -91,6 +91,7 @@
 - [ ] https://github.com/qtc-de/remote-method-guesser
 - [ ] https://github.com/fynch3r/Gadgets
 - [ ] https://tttang.com/archive/1405
+- [ ] https://github.com/eugenp/tutorials
 
 ## 02-Java安全研究工具
 
