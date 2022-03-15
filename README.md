@@ -2,16 +2,16 @@
 
 本项目是记录自己在学习研究Java安全过程中遇到的优秀内容，包括Java代码审计资源以及Java开发的应用程序组件协议等的安全内容。一个不会Java攻击的黑客不是一个好师傅，一个不懂Java安全的师傅不是一个好黑客！深入理解Java安全，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2022年3月14日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2022年3月15日。本项目会持续更新，直到海枯石烂。
 
-- [01-Java安全研究资源](https://github.com/0e0w/HackJava#01-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
-- [02-Java安全研究工具](https://github.com/0e0w/HackJava#02-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
-- [03-Java安全漏洞环境](https://github.com/0e0w/HackJava#03-java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83)
-- [04-Java安全漏洞分类](https://github.com/0e0w/HackJava#04-Java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%88%86%E7%B1%BB)
-- [05-Java安全代码审计](https://github.com/0e0w/HackJava#05-Java%E5%AE%89%E5%85%A8%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
-- [06-Java安全漏洞修复](https://github.com/0e0w/HackJava#06-java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D)
-- [07-Java安全高危应用](https://github.com/0e0w/HackJava#07-java%E5%AE%89%E5%85%A8%E9%AB%98%E5%8D%B1%E5%BA%94%E7%94%A8)
-- [08-Java安全参考资源](https://github.com/0e0w/HackJava#08-java%E5%AE%89%E5%85%A8%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90)
+- [01-Java安全研究资源](https://github.com/HackJava/HackJava#01-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
+- [02-Java安全研究工具](https://github.com/HackJava/HackJava#02-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
+- [03-Java安全漏洞环境](https://github.com/HackJava/HackJava#03-java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83)
+- [04-Java安全漏洞分类](https://github.com/HackJava/HackJava#04-Java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%88%86%E7%B1%BB)
+- [05-Java安全代码审计](https://github.com/HackJava/HackJava#05-Java%E5%AE%89%E5%85%A8%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
+- [06-Java安全漏洞修复](https://github.com/HackJava/HackJava#06-java%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D)
+- [07-Java安全高危应用](https://github.com/HackJava/HackJava#07-java%E5%AE%89%E5%85%A8%E9%AB%98%E5%8D%B1%E5%BA%94%E7%94%A8)
+- [08-Java安全参考资源](https://github.com/HackJava/HackJava#08-java%E5%AE%89%E5%85%A8%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90)
 
 ## 01-Java安全研究资源
 
@@ -262,6 +262,10 @@
 ## 07-Java安全高危应用
 
 此处整理收集Java开发的普遍使用的程序：包括中间件、核心框架、底层库、重要应用系统等。待更新。
+
+- [Log4j2](https://github.com/HackJava/Log4j2)
+- [Shiro](https://github.com/HackJava/Shiro)
+- [Weblogic](https://github.com/HackJava/Weblogic)
 
 ## 08-Java安全参考资源
 
