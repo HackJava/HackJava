@@ -208,8 +208,10 @@
 - [ ] [JavaVulnerableLab circle-练习Java反序列化的最简单环境](https://github.com/pmiaowu/DeserializationTest)@pmiaowu
 - [ ] [易受攻击的Java Web应用程序](https://github.com/Zhangyao-zzyy/JavaVulnerableLab-circle)@Zhangyao-zzyy
 - [ ] https://github.com/l4yn3/micro_service_seclab
+- [ ] https://github.com/GoSecure/goinsecure-deserialization
 - [ ] https://gitee.com/cor0ps/java-range
 - [ ] https://github.com/c0ny1/xxe-lab
+- [ ] https://github.com/shanika04/Kura_XXE
 - [ ] https://github.com/t0thkr1s/allsafe
 - [ ] https://github.com/oversecured/ovaa
 - [ ] https://github.com/jaiswalakshansh/Vuldroid
