@@ -284,11 +284,11 @@
 
 ## Stargazers
 
-[![Stargazers @accurics/terrascan](https://reporoster.com/stars/HackJava/HackJava)](https://github.com/HackJava/HackJava/stargazers)
+[![Stargazers @HackJava/HackJava](https://reporoster.com/stars/HackJava/HackJava)](https://github.com/HackJava/HackJava/stargazers)
 
 ## Forkers
 
-[![Forkers @accurics/terrascan](https://reporoster.com/forks/HackJava/HackJava)](https://github.com/HackJava/HackJava/network/members)
+[![Forkers @HackJava/HackJava](https://reporoster.com/forks/HackJava/HackJava)](https://github.com/HackJava/HackJava/network/members)
 
 ![](01-Java安全研究资源/TEMP/wx.png)
 
