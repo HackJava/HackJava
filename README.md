@@ -1,10 +1,10 @@
 # 《Java安全-只有Java安全才能拯救宇宙》
 
-![HackJava](https://socialify.git.ci/HackJava/HackJava/image?description=1&descriptionEditable=%E3%80%8AJava%E5%AE%89%E5%85%A8-%E5%8F%AA%E6%9C%89Java%E5%AE%89%E5%85%A8%E6%89%8D%E8%83%BD%E6%8B%AF%E6%95%91%E5%AE%87%E5%AE%99%E3%80%8B&font=Rokkitt&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+![HackJava](https://socialify.git.ci/HackJava/HackJava/image?description=0&descriptionEditable=%E3%80%8AJava%E5%AE%89%E5%85%A8-%E5%8F%AA%E6%9C%89Java%E5%AE%89%E5%85%A8%E6%89%8D%E8%83%BD%E6%8B%AF%E6%95%91%E5%AE%87%E5%AE%99%E3%80%8B&font=Rokkitt&forks=1&issues=1&name=1&owner=0&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
 本项目是记录自己在学习研究Java安全过程中遇到的优秀内容，包括Java代码审计资源以及Java开发的应用程序组件协议等的安全内容。一个不会Java攻击的黑客不是一个好师傅，一个不懂Java安全的师傅不是一个好黑客！深入理解Java安全，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2022年11月01日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2022年11月29日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java安全研究资源](https://github.com/HackJava/HackJava#01-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
 - [02-Java安全研究工具](https://github.com/HackJava/HackJava#02-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
@@ -54,13 +54,12 @@
 四、培训演讲
 
 五、专利文献
-
 - [ ] [一种基于java的web动态安全漏洞检测方法](https://patents.google.com/patent/CN103699480B/zh)@安恒
 
 六、审计报告
 
 七、其他资源
-- https://github.com/topics/static-analysis?l=java
+- [ ] https://github.com/topics/static-analysis?l=java
 - [ ] [《攻击Java Web应用》](https://zhishihezi.net/b/5d644b6f81cbc9e40460fe7eea3c7925)@javasec
 - [ ] [《J2EE 渗透测试与安全开发》](https://zhishihezi.net/b/98ae566719b21536dff0c4febaa697d2)@路人甲
 - [ ] [《静态程序分析入门教程》](https://github.com/RangerNJU/Static-Program-Analysis-Book)
@@ -103,7 +102,7 @@
 工欲善其事必先利其器，此处收集整理Java代码审计的一些优秀工具！期待自己的代码审计工具能够早日发布！
 
 一、SAST
-- https://github.com/ASTTeam/SAST
+- [ ] https://github.com/ASTTeam/SAST
 - [ ] https://github.com/wooyunwang/Fortify
 - [ ] https://github.com/FeeiCN/Cobra
 - [ ] https://github.com/LoRexxar/Kunlun-M
@@ -114,21 +113,21 @@
 - [ ] [Tencent Xcheck](https://cloud.tencent.com/product/asd)
 
 二、DAST
-- https://github.com/ASTTeam/DAST
+- [ ] https://github.com/ASTTeam/DAST
 
 三、IAST
-- https://github.com/ASTTeam/IAST
-- https://github.com/HXSecurity/DongTai
+- [ ] https://github.com/ASTTeam/IAST
+- [ ] https://github.com/HXSecurity/DongTai
 
 四、CodeQL
-- https://github.com/HackJava/CodeQL
-- https://codeql.github.com
+- [ ] https://github.com/ASTTeam/CodeQL
+- [ ] https://codeql.github.com
 
 五、RASP
-- https://github.com/0e0w/RASP
+- [ ] https://github.com/0e0w/RASP
 
 六、JNDI
-- https://github.com/HackJava/JNDI
+- [ ] https://github.com/HackJava/JNDI
 - [ ] https://github.com/bradfitz/jndi
 - [ ] https://github.com/EmYiQing/LDAPKit
 - [ ] https://github.com/su18/JNDI
