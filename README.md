@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习研究Java安全过程中遇到的优秀内容，包括Java代码审计资源以及Java开发的应用程序组件协议等的安全内容。一个不会Java攻击的黑客不是一个好师傅，一个不懂Java安全的师傅不是一个好黑客！深入理解Java安全，手握众多重点Java应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2022年12月21日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2022年12月24日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java安全研究资源](https://github.com/HackJava/HackJava#01-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
 - [02-Java安全研究工具](https://github.com/HackJava/HackJava#02-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
@@ -27,7 +27,7 @@
 - [ ] [《Java-Web-Security》](https://play.google.com/store/books/details/Java_Web_Security_Sichere_Webanwendungen_mit_Java_?id=ZxZ4DwAAQBAJ&hl=en_US&gl=US)@Dominik Schadow
 
 二、基础教程
-- [ ] [《Java Web安全-代码审计》]()@凌天实验室
+- [ ] [《Java Web安全-代码审计》](https://github.com/javaweb-sec/javaweb-sec)@凌天实验室
 - [ ] [《Java安全漫谈笔记相关内容》](https://github.com/phith0n/JavaThings)@phith0n
 - [ ] [《Java代码审计学习笔记》](https://github.com/proudwind/javasec_study)@proudwind
 - [ ] [《Java漏洞学习笔记》](https://github.com/SummerSec/JavaLearnVulnerability)@SummerSec
