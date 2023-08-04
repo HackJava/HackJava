@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习研究Java安全过程中遇到的优秀资源，包括Java安全的多个细分领域，如Java漏洞分析和Java代码审计以及Java开发的应用程序组件协议甚至Java本身的安全问题等。一个不能攻击Java的黑客不是一个好黑客，一个不懂Java安全的师傅不是一个好师傅！深入理解Java安全，拯救宇宙！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月8日，最近的一次更新时间为2023年7月10日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月8日，最近的一次更新时间为2023年8月4日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java安全研究资源](https://github.com/HackJava/HackJava#01-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
 - [02-Java安全研究方向](https://github.com/HackJava/HackJava#02-java%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91)
@@ -229,6 +229,7 @@
 - [ ] https://github.com/4ra1n/accelerator
 - [ ] https://github.com/hluwa/Wallbreaker
 - [ ] https://github.com/4ra1n/code-inspector
+- [ ] https://github.com/luelueking/ClazzSearcher
 
 ## 04-Java安全漏洞环境
 
